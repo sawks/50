@@ -8,7 +8,7 @@ layout: default
 - 6pm-midnight, 22 August 2026 @ The Quadraphonic Club, 345 Victoria St, Brunswick
 - Drinks, food, entertainment provided
 - Casual dress
-- You don't need to get me anything
+- You don't need to get him anything
 - RSVP by 1 August to [50@sawks.com](mailto:50@sawks.com)
 
 ## Vibe
@@ -31,7 +31,6 @@ layout: default
 - Smoking area outdoors so bring a jacket if you're so inclined
 
 ## Food
-
 
 ![Some of Peter's food](assets/img/taco.jpg)
 
@@ -56,6 +55,6 @@ layout: default
 - Email [50@sawks.com](mailto:50@sawks.com) or text us
 
 ## Acknowledgement
-- This event takes place on the lands of the Wurundjeri people of the Kulin Nation
+- This event takes place on the unceded lands of the Wurundjeri people of the Kulin Nation
 
 
