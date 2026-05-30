@@ -4,8 +4,11 @@ plugins:
    - jekyll-feed
    - jekyll-seo-tag
    - jekyll-sitemap   
-title: Fiddy
+title: 50
 description: Sawks is turning 50, come and party with us
+author:
+  name: "Sawks"
+  email: "50@sawks.com"
 relative_links:
   enabled: true
   collections: true
