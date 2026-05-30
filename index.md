@@ -22,7 +22,7 @@ layout: default
 
 ![Quad Club Entry on Percy St](assets/img/quad.jpg)
 
-- We're at the Quadrophonic Club, 345 Victoria St, Brunswick, in the "Club Room"
+- We're at the [Quadrophonic Club](https://www.quadclub.com.au/), 345 Victoria St, Brunswick, in the "Club Room"
 - Entry is via Percy St
 - If you're driving, there are parking spots along Victoria St, a small public lot at Victoria St x Tripovich St and paid parking at the Woolworths on Albert St
 - It will mainly be a standing affair with some high top/bar seating and a lounge area
