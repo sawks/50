@@ -13,7 +13,7 @@ layout: default
 
 ## Vibe
 - Food, drinks, music, dancing
-- About 50 of our favourite adults, including some special guests from Aotearoa
+- About 50 of our favourite people, including some special guests from Aotearoa
 - No family stuff, no ceremonies, no speeches
 - You don't need to bring anything
 - Dress 2 sweat
