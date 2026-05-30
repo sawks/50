@@ -1,0 +1,10 @@
+remote_theme: artlogic/jekyll-theme-iota
+plugins:
+   - jekyll-relative-links
+title: Fiddy
+description: Sawks is turning 50, come and party with us
+relative_links:
+  enabled: true
+  collections: true
+github:
+  is_project_page: false
