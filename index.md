@@ -5,7 +5,7 @@ layout: default
 # Sawks is 50
 
 ## TL:DR
-- 6pm-midnight, 22 August 2026 @ The Quadraphonic Club, 345 Victoria St, Brunswick
+- **6pm-midnight, 22 August 2026** @ The Quadraphonic Club, 345 Victoria St, Brunswick
 - Drinks, food, entertainment provided
 - Casual dress
 - You don't need to get him anything
@@ -49,6 +49,7 @@ layout: default
 - If you wanna get involved let us know
 
 ## RSVP
+- **6pm-midnight, 22 August 2026** @ The Quadraphonic Club, 345 Victoria St, Brunswick
 - If you wanna bring someone along that's cool!
 - We'd appreciate it if you could let us know who's coming, and any dietaries or accomodations you might need by 1 August
 - If there's anything not covered above just ask
