@@ -2,8 +2,14 @@
 ---
 @import "iota";
 
-header, footer {
+header, footer
+{
     display: none;
+}
+
+body
+{
+    background-color: #c0c0c0;
 }
 
 img

@@ -7,7 +7,7 @@ layout: default
 ## TL:DR
 - 6pm-midnight, 22 August 2026 @ The Quadraphonic Club, 345 Victoria St, Brunswick
 - Drinks, food, entertainment provided
-- Casual Dress
+- Casual dress
 - You don't need to get me anything
 - RSVP by 1 August to [50@sawks.com](mailto:50@sawks.com)
 
@@ -38,20 +38,20 @@ layout: default
 - Peter from [Latin Quarters Taqueria](https://latinquarterstaqueria.com/) will be serving up tostadas, tacos and dessert, street food style
 - Everything is gluten free, with vego options
 - If you're not good at garlic and onions it will be tough, we're really sorry. We can get you a pizza delivered?
-- If you have a dieatary requirement that we might not know about yet, please let us know when you RSVP
+- If you have a dietary requirement that we might not know about yet, please let us know when you RSVP
 
 ## Entertainment
 
-![Interior of Quad Club - Club Room](assets/img/quad.jpg)
+![Interior of Quad Club - Club Room](assets/img/room.jpg)
 
-- Open Bar
+- Open Bar until 11pm
 - Expect a tightly curated playlist
 - DJ: Sawks (chunkers set) to end the night
 - If you wanna get involved let us know
 
 ## RSVP
 - If you wanna bring someone along that's cool!
-- We'd appreciate it if you could let us know who's coming, and any dieatries or accomodations you might need by 1 August
+- We'd appreciate it if you could let us know who's coming, and any dietaries or accomodations you might need by 1 August
 - If there's anything not covered above just ask
 - Email [50@sawks.com](mailto:50@sawks.com) or text us
 
