@@ -5,7 +5,7 @@ plugins:
    - jekyll-seo-tag
    - jekyll-sitemap   
 title: 50
-description: Sawks is turning 50, come and party with us
+description: Sawks is turning 50, come and party with us.
 author:
   name: "Sawks"
   email: "50@sawks.com"
