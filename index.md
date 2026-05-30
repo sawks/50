@@ -53,6 +53,7 @@ layout: default
 - We'd appreciate it if you could let us know who's coming, and any dietaries or accomodations you might need by 1 August
 - If there's anything not covered above just ask
 - Email [50@sawks.com](mailto:50@sawks.com) or text us
+- We're excited to see you there - Matt & Lisa
 
 ## Acknowledgement
 - This event takes place on the unceded lands of the Wurundjeri people of the Kulin Nation
